@@ -1,0 +1,12 @@
+{
+  "name": "puppeteer-screenshot-lambda",
+  "version": "0.0.1",
+  "description": "AWS Lambda to create screenshots of websites using HTML or URLs",
+  "main": "index.js",
+  "author": "we-do.ai GmbH",
+  "license": "MIT",
+  "dependencies": {
+    "chrome-aws-lambda": "^3.0.4",
+    "puppeteer-core": "^3.0.4"
+  }
+}
